@@ -11,7 +11,10 @@ const client = new Client({
 
 // Blacklist IDs
 const blacklist = [
-  "USER_ID_HIER"
+  "1287824603196031158",
+  "1188954206997061838",
+  "1312115508598013953",
+  "1444090420949680331"
 ];
 
 client.once("ready", () => {
